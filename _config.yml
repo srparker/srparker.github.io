@@ -1,1 +1,5 @@
+#Jekyll configuration
+name: Simon's test markdown site
 theme: jekyll-theme-cayman
+url: "https://srparker.github.io"
+markdown: CommonMark
