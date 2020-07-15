@@ -1,3 +1,3 @@
 # Test site
 
-[TOP CONTENT](top_content.md]
+[TOP CONTENT](top_content.md)
